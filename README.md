@@ -5,6 +5,7 @@
     <img alt="Banner Image" src="https://github.com/user-attachments/assets/210f97fc-0fce-404a-b647-7dfe1302cd37" />
   </picture>
 </p>
+# *Send-pre-meeting-Slack-briefings-using-Google-Calendar-Notion-GitHub-and-Jira*
 
 Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
