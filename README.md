@@ -8,7 +8,7 @@
 
 Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
-[Website](https://intuz.com) · [N8N Creator](https://n8n.io/creators/intuz/) · [Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [Get Started](https://www.intuz.com/get-started/)
+[Website](https://intuz.com) · [N8N Creator](https://n8n.io/creators/intuz/) · [Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
 ---
 
@@ -102,3 +102,4 @@ Save the workflow and toggle the **"Active"** switch to ON. Your automated pre-m
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
 * **LinkedIn:** https://www.linkedin.com/company/intuz
 * **Get Started:** https://n8n.partnerlinks.io/intuz
+* **For Custom Workflow Automation:** https://www.intuz.com/get-started/
