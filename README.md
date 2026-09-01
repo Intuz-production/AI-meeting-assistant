@@ -8,11 +8,13 @@
 
 # Send pre-meeting Slack briefings using Google Calendar, Notion, GitHub, and Jira
 
-Intuz helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
+[Intuz](https://www.intuz.com/) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
 
-[Website](https://intuz.com) · [N8N Creator](https://n8n.io/creators/intuz/) · [Workflow Automation](https://www.intuz.com/workflow-automation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
+[N8N Creator](https://n8n.io/creators/intuz/) · [Generative AI Development Services](https://www.intuz.com/generative-ai-development/) · [AI Consulting](https://www.intuz.com/ai-transformation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
 ---
+
+## This n8n template
 
 This n8n template from Intuz provides a complete and automated solution for preparing and delivering context-rich briefings directly to attendees before every meeting.
 
@@ -100,8 +102,11 @@ Save the workflow and toggle the **"Active"** switch to ON. Your automated pre-m
 
 ## Connect with us
 
-* **Website:** https://www.intuz.com/n8n-workflow-automation-templates
+* **Website:** [https://www.intuz.com/n8n-workflow-automation-templates/](https://www.intuz.com/n8n-workflow-automation-templates/)
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** https://www.linkedin.com/company/intuz
-* **Get Started:** https://n8n.partnerlinks.io/intuz
-* **For Custom Workflow Automation:** https://www.intuz.com/get-started/
+* **LinkedIn:** [https://www.linkedin.com/company/intuz/](https://www.linkedin.com/company/intuz/)
+* **Get Started:** [https://n8n.partnerlinks.io/intuz/](https://n8n.partnerlinks.io/intuz/)
+
+## For Custom Workflow Automation
+
+[Click here - Get Started](https://www.intuz.com/get-started/)
