@@ -105,7 +105,7 @@ Save the workflow and toggle the **"Active"** switch to ON. Your automated pre-m
 * **Website:** [https://www.intuz.com/n8n-workflow-automation-templates/](https://www.intuz.com/n8n-workflow-automation-templates/)
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
 * **LinkedIn:** [https://www.linkedin.com/company/intuz/](https://www.linkedin.com/company/intuz/)
-* **Get Started:** [https://n8n.partnerlinks.io/intuz/](https://n8n.partnerlinks.io/intuz/)
+* **Get Started:** [https://n8n.partnerlinks.io/intuz/](https://n8n.partnerlinks.io/intuz)
 
 ## For Custom Workflow Automation
 
