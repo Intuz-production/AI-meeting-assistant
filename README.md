@@ -1,4 +1,4 @@
-# Intuz — Your automation partner, one workflow at a time.
+*Intuz — Your automation partner, one workflow at a time.*
 
 <p align="center">
   <picture>
@@ -6,15 +6,11 @@
   </picture>
 </p>
 
-# Send pre-meeting Slack briefings using Google Calendar, Notion, GitHub, and Jira
-
-[Intuz](https://www.intuz.com/) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch
+[Intuz](https://www.intuz.com) helps organizations orchestrate AI, automation, and enterprise systems through scalable workflows. Our repository showcases proven implementations across healthcare, operations, customer support, document processing, sales, and back-office functions, enabling teams to accelerate automation initiatives without starting from scratch.
 
 [N8N Creator](https://n8n.io/creators/intuz/) · [Generative AI Development Services](https://www.intuz.com/generative-ai-development/) · [AI Consulting](https://www.intuz.com/ai-transformation-services/) · [For Custom Workflow Automation](https://www.intuz.com/get-started/)
 
----
-
-## This n8n template
+# Send pre-meeting Slack briefings using Google Calendar, Notion, GitHub, and Jira
 
 This n8n template from Intuz provides a complete and automated solution for preparing and delivering context-rich briefings directly to attendees before every meeting.
 
@@ -100,12 +96,33 @@ In the **"Capture New Google Calendar Event"** node, connect your Google Calenda
 
 Save the workflow and toggle the **"Active"** switch to ON. Your automated pre-meeting bot is now live!
 
+## FAQ
+
+**Is this template free to use?**
+Yes. It's an open-source n8n workflow published by Intuz — copy the workflow JSON from this repo and import it into your own n8n instance at no cost.
+
+**Do I need a paid n8n plan to run this?**
+No. It runs on n8n's free self-hosted Community Edition or on n8n Cloud. You'll need your own credentials for the services this workflow connects to, not a specific n8n pricing tier.
+
+**Does it summarize the meeting afterward, or prepare beforehand?**
+Beforehand — it's a pre-meeting briefing tool. It pulls context from Google Calendar, Notion, GitHub, and Jira ahead of a scheduled meeting and posts a Slack briefing so you walk in prepared.
+
+## Related n8n templates from Intuz
+
+- [Automate GitHub Pull Requests and JIRA Updates from Git Commits](https://github.com/Intuz-production/Automate-GitHub-PRs-Jira-Updates-from-Git-Commits)
+- [Automate GitHub, JIRA release notes with Google Gemini & notification over email](https://github.com/Intuz-production/Automate-GitHub-Jira-Release-Notes-with-AI)
+- [Route Gmail Emails to Slack Channels Using AI](https://github.com/Intuz-production/AI-Powered-Gmail-to-Slack-Email-Routing)
+
+See all of Intuz's free n8n templates: https://www.intuz.com/n8n-workflow-automation-templates/
+
 ## Connect with us
 
-* **Website:** [https://www.intuz.com/n8n-workflow-automation-templates/](https://www.intuz.com/n8n-workflow-automation-templates/)
+Intuz is a USA-based AI & workflow automation company with 16+ years of experience building custom AI-enabled workflow automations for SMBs and Enterprises, specializing in agentic AI, LLM integrations, and CRM/ERP sync across Healthcare, FinTech, eCommerce, Manufacturing, and Real Estate. Explore 30+ free templates at intuz.com/n8n-workflow-automation-templates or get a custom workflow built at intuz.com/get-started.
+
+* **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** [https://www.linkedin.com/company/intuz/](https://www.linkedin.com/company/intuz/)
-* **Get Started:** [https://n8n.partnerlinks.io/intuz/](https://n8n.partnerlinks.io/intuz)
+* **LinkedIn:** https://www.linkedin.com/company/intuz/
+* **Get Started:** https://n8n.partnerlinks.io/intuz
 
 ## For Custom Workflow Automation
 
