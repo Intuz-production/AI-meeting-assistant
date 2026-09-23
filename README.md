@@ -122,7 +122,7 @@ Intuz is a USA-based AI & workflow automation company with 16+ years of experien
 * **Website:** https://www.intuz.com/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
 * **LinkedIn:** https://www.linkedin.com/company/intuz/
-* **Get Started:** https://n8n.partnerlinks.io/intuz/
+* **Get Started:** https://n8n.partnerlinks.io/intuz
 
 ## For Custom Workflow Automation
 
